@@ -251,7 +251,7 @@ const App = () => {
               <span className="gradient-text">Data Analyst • Engineer • Scientist</span>
             </h1>
             <p className="text-xl text-gray-400 max-w-2xl leading-relaxed">
-              Masters student at Syracuse University (GPA: 3.9/4) specializing in Applied Data Science. 
+              Masters student at Syracuse University specializing in Applied Data Science with 
               2+ years of experience transforming data into actionable insights through ML, ETL pipelines, 
               and interactive dashboards. Building scalable data solutions that drive business decisions.
             </p>
